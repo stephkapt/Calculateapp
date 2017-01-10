@@ -94,7 +94,7 @@ class ViewController: UIViewController {
             
             labelResult.text = "Enter a number"
             numberinputs = 0
-            previousinput = 0
+            previousinput = 0;
             operation = 0
             flag = false
         }
